@@ -8,4 +8,3 @@ vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.22.47.186:443?encryption=none&s
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@mci.ircf.space:443?encryption=none&security=tls&sni=hima.miladsali74.ir&alpn=http%2F1.1&fp=chrome&type=ws&host=hima.miladsali74.ir&path=%2F%3Fed%3D2048#%F0%9F%8C%90%20%7C%20Blackbird%20%7C%20%F0%9F%8C%90-MCI%281%29
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@mtn.ircf.space:443?encryption=none&security=tls&sni=hima.miladsali74.ir&alpn=http%2F1.1&fp=chrome&type=ws&host=hima.miladsali74.ir&path=%2F%3Fed%3D2048#%F0%9F%8C%90%20%7C%20Blackbird%20%7C%20%F0%9F%8C%90-Irancell%281%29
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@psm.ircf.space:443?encryption=none&security=tls&sni=hima.miladsali74.ir&alpn=http%2F1.1&fp=chrome&type=ws&host=hima.miladsali74.ir&path=%2F%3Fed%3D2048#%F0%9F%8C%90%20%7C%20Blackbird%20%7C%20%F0%9F%8C%90-Pishgaman
-
