@@ -6,8 +6,8 @@ vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@45.8.106.222:443?encryption=none&se
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.18.113.10:443?encryption=none&security=tls&sni=epson.miladsali74.ir&alpn=http%2F1.1&fp=chrome&type=ws&host=epson.miladsali74.ir&path=%2F%3Fed%3D2048#%F0%9F%8C%90%20%7C%20Blackbird%20%7C%20%F0%9F%8C%90-Free3
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.19.217.148:443?encryption=none&security=tls&sni=epson.miladsali74.ir&alpn=http%2F1.1&fp=chrome&type=ws&host=epson.miladsali74.ir&path=%2F%3Fed%3D2048#%F0%9F%8C%90%20%7C%20Blackbird%20%7C%20%F0%9F%8C%90-Free4
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@185.148.105.62:443?encryption=none&security=tls&sni=epson.miladsali74.ir&alpn=http%2F1.1&fp=chrome&type=ws&host=epson.miladsali74.ir&path=%2F%3Fed%3D2048#%F0%9F%8C%90%20%7C%20Blackbird%20%7C%20%F0%9F%8C%90-Free5
-vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@lars.ns.cloudflare.com:8443?encryption=none&security=tls&sni=iraniancp.click&type=ws&host=b4.iraniancp.click&path=%2F%3Fed%3D2048#Iranian%2BCypherpunks%2B8443
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.65:443?encryption=none&security=tls&sni=iraniancp.click&type=ws&host=worker.iraniancp.click&path=%2F%3Fed%3D2048#Iranian%2BCypherpunks%2B443%2Bworker
 vless://Telegram-Parsashonam-0@mtn2.tel-parsashonam.website:2083?security=tls&sni=cloud2.tel-Parsashonam.fun&type=grpc&serviceName=@Parsashonam&encryption=none#@Parsashonam+%F0%9F%87%A9%F0%9F%87%AA+wifi
 vless://Telegram-Parsashonam-0@mbt.tel-parsashonam.website:2083?security=tls&sni=usa.Tel-Parsashonam.site&type=grpc&encryption=none#@Parsashonam+%F0%9F%87%BA%F0%9F%87%B2+wifi
+vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@185.59.218.19:8443?security=tls&sni=iraniancp.click&type=ws&path=/?ed%3D2048&host=b4.iraniancp.click&encryption=none#Iranian+Cypherpunks+8443
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@185.59.218.19:443?security=tls&sni=iraniancp.click&type=ws&path=/?ed%3D2048&host=worker.iraniancp.click&encryption=none#Iranian+Cypherpunks+443+worker
 
