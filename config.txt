@@ -5,3 +5,5 @@ vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.19.217.148:443?security=tls&sni
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.25.174.108:443?security=tls&sni=epson.miladsali74.ir&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-Free1
 vless://87f553ac-9031-44a2-a26f-3a3f8058d785@104.25.174.108:443?security=tls&sni=epson.tewedypa.workers.dev&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.tewedypa.workers.dev&encryption=none#BLK-Worker-%F0%9F%87%A9%F0%9F%87%AA
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.18.113.10:443?security=tls&sni=epson.miladsali74.ir&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK%20-Free2
+vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@psm.ircf.space:443?security=tls&sni=epson.miladsali74.ir&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#Pishgaman
+vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@rtl.ircf.space:443?security=tls&sni=epson.miladsali74.ir&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#rightel
