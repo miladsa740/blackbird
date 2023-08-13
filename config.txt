@@ -28,7 +28,4 @@ vless://87f553ac-9031-44a2-a26f-3a3f8058d785@104.25.21.135:443?security=tls&sni=
 vless://87f553ac-9031-44a2-a26f-3a3f8058d785@104.25.188.126:443?security=tls&sni=epson.tewedypa.workers.dev&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.tewedypa.workers.dev&encryption=none#BLK-Worker-%F0%9F%87%A9%F0%9F%87%AA_MTN_IRCF
 vless://87f553ac-9031-44a2-a26f-3a3f8058d785@104.17.4.149:443?security=tls&sni=epson.tewedypa.workers.dev&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.tewedypa.workers.dev&encryption=none#BLK-Worker-%F0%9F%87%A9%F0%9F%87%AA_MTN_IRCF
 vless://87f553ac-9031-44a2-a26f-3a3f8058d785@104.16.106.177:443?security=tls&sni=epson.tewedypa.workers.dev&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.tewedypa.workers.dev&encryption=none#BLK-Worker-%F0%9F%87%A9%F0%9F%87%AA_MTN_IRCF
-vless://488a3878-48fc-4f7f-daf4-7c1f9dc4e6f3@130.61.112.39:443?security=reality&sni=discord.com&fp=chrome&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&sid=1765124e&type=tcp&flow=xtls-rprx-vision&encryption=none#Phx-R1
-vless://b8c3f05c-5508-481a-c965-0c7ed8c26847@38.60.249.181:443?security=reality&sni=ftp.debian.org&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sid=a49f7baa&type=tcp&flow=xtls-rprx-vision&encryption=none#Phx-R2
-vless://b8c3f05c-5508-481a-c965-0c7ed8c26847@38.54.84.80:443?security=reality&sni=ftp.debian.org&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sid=a49f7baa&type=tcp&flow=xtls-rprx-vision&encryption=none#Phx-R3
-vless://7dbe23dc-6cf2-43c5-e8d6-35a8bf88cc65@phx4.irphx.top:8443?security=tls&sni=3mju7.irphx.top&fp=chrome&type=ws&path=/?ed%3D2048&host=ws.irphx.top&encryption=none#Phx-W
+
