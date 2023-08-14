@@ -23,3 +23,4 @@ vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@195.245.221.252:443?security=tls&sn
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@80.94.83.172:443?security=tls&sni=epson.miladsali74.ir&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-_SHT_IRCF
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@185.135.9.92:443?security=tls&sni=epson.miladsali74.ir&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-_SHT_IRCF
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@203.22.223.180:443?security=tls&sni=epson.miladsali74.ir&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-Free5
+vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@185.174.138.105:443?security=tls&sni=epson.miladsali74.ir&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-Free6
