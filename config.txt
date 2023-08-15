@@ -14,3 +14,5 @@ vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.23.99.219:443?security=tls&sni=
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@203.22.223.180:443?security=tls&sni=epson.miladsali74.ir&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-Free5
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@185.174.138.105:443?security=tls&sni=epson.miladsali74.ir&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-Free6
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@199.181.197.2:443?security=tls&sni=epson.miladsali74.ir&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-Free7
+vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.17.253.83:443?security=tls&sni=epson.miladsali74.ir&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-Free8
+vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.17.4.149:443?security=tls&sni=epson.miladsali74.ir&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-Irancell%203
