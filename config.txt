@@ -1,4 +1,3 @@
-vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@mci.ircf.space:443?security=tls&sni=epson.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-MCI%201
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.18.203.89:443?security=tls&sni=epson.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-Free4
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.19.217.148:443?security=tls&sni=epson.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-Free3
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.25.174.108:443?security=tls&sni=epson.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-Free1
