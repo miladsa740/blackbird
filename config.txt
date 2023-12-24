@@ -1,7 +1,4 @@
-vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.17.4.149:443?security=tls&sni=epson.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-F3
-vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.20.199.103:443?security=tls&sni=epson.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-F6
+vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.16.232.16:443?security=tls&sni=epson.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-F3
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.17.253.83:443?security=tls&sni=epson.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-F2
-vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@190.93.244.195:443?security=tls&sni=epson.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-F4
-vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.25.174.108:443?security=tls&sni=epson.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-F1
-vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.16.232.16:443?security=tls&sni=epson.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-F5
-sn://wg?eNoNzktOwkAYAODR6MZTsCdt55-280rYUJyQEtRE66O7eTCViCkgZKC7Hoil0TN5Ctl-q-8SIQSUxJCLGASJ6Q-5QugX2JlojGOSpOSGUExlxjCWAFjyBcslw9ZIo72XFMBKY0wChJ-WxZpPqq7MDvWd9U81btQkjDddsas3aRneurEIwc6-0qoZnczn630xVKAOt3Ml3HE5I9M8gcdq101xuX9uc3gn4cE3x3bUo2uE3PDj7-Ic_i5W7d6pld4uBi96ux5QwjXDwkeMcx5lgrtIOMyizBqTaseBCtb3_zSBQsw
+vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.20.199.103:443?security=tls&sni=epson.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-F4
+vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@190.93.244.195:443?security=tls&sni=epson.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=epson.miladsali74.ir&encryption=none#BLK-F1
