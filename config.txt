@@ -2,6 +2,4 @@ vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@190.93.244.195:443/?type=ws&encrypt
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.17.253.83:443/?type=ws&encryption=none&host=epson.miladsali74.ir&path=%2F%3Fed%3D2048&security=tls&sni=epson.miladsali74.ir&alpn=http%2F1.1&fp=chrome#BLK-F2
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.16.232.16:443/?type=ws&encryption=none&host=epson.miladsali74.ir&path=%2F%3Fed%3D2048&security=tls&sni=epson.miladsali74.ir&alpn=http%2F1.1&fp=chrome#BLK-F3
 vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.20.199.103:443/?type=ws&encryption=none&host=epson.miladsali74.ir&path=%2F%3Fed%3D2048&security=tls&sni=epson.miladsali74.ir&alpn=http%2F1.1&fp=chrome#BLK-F4
-vless://55e76f4b-fef8-4de9-af50-921905a22fe9@104.18.81.19:443/?type=ws&encryption=none&host=epson.tewedypa.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=epson.tewedypa.workers.dev&alpn=http%2F1.1&fp=chrome#M1
-vless://55e76f4b-fef8-4de9-af50-921905a22fe9@104.19.250.47:443/?type=ws&encryption=none&host=epson.tewedypa.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=epson.tewedypa.workers.dev&alpn=http%2F1.1&fp=chrome#M2
-vless://55e76f4b-fef8-4de9-af50-921905a22fe9@104.25.5.61:443/?type=ws&encryption=none&host=epson.tewedypa.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=epson.tewedypa.workers.dev&alpn=http%2F1.1&fp=chrome#M3
+vless://55e76f4b-fef8-4de9-af50-921905a22fe9@104.18.81.19:443/?
