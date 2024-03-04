@@ -1,4 +1,4 @@
-vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@190.93.244.195:443/?type=ws&encryption=none&host=epson.miladsali74.ir&path=%2F%3Fed%3D2048&security=tls&sni=epson.miladsali74.ir&alpn=http%2F1.1&fp=chrome#BLK-F1
-vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.17.253.83:443/?type=ws&encryption=none&host=epson.miladsali74.ir&path=%2F%3Fed%3D2048&security=tls&sni=epson.miladsali74.ir&alpn=http%2F1.1&fp=chrome#BLK-F2
-vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.16.232.16:443/?type=ws&encryption=none&host=epson.miladsali74.ir&path=%2F%3Fed%3D2048&security=tls&sni=epson.miladsali74.ir&alpn=http%2F1.1&fp=chrome#BLK-F3
-vless://5a8c3025-e919-4174-b282-fb2bf8e7f10e@104.20.199.103:443/?type=ws&encryption=none&host=epson.miladsali74.ir&path=%2F%3Fed%3D2048&security=tls&sni=epson.miladsali74.ir&alpn=http%2F1.1&fp=chrome#BLK-F4
+vless://716c811f-c365-4103-ba50-65a6802ffb60@104.16.232.16:443?security=tls&sni=msi.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=msi.miladsali74.ir&encryption=none#BLK-F3
+vless://716c811f-c365-4103-ba50-65a6802ffb60@104.17.253.83:443?security=tls&sni=msi.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=msi.miladsali74.ir&encryption=none#BLK-F2
+vless://716c811f-c365-4103-ba50-65a6802ffb60@104.20.199.103:443?security=tls&sni=msi.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=msi.miladsali74.ir&encryption=none#BLK-F4
+vless://716c811f-c365-4103-ba50-65a6802ffb60@190.93.244.195:443?security=tls&sni=msi.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=msi.miladsali74.ir&encryption=none#BLK-F1
