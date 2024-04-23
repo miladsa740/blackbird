@@ -1,4 +1,4 @@
-vless://716c811f-c365-4103-ba50-65a6802ffb60@190.93.244.195:443?security=tls&sni=msi.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=msi.miladsali74.ir&encryption=none#BLK-F1
-vless://716c811f-c365-4103-ba50-65a6802ffb60@23.227.60.184:443?security=tls&sni=msi.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=msi.miladsali74.ir&encryption=none#BLK-F2
-vless://716c811f-c365-4103-ba50-65a6802ffb60@45.8.211.136:443?security=tls&sni=msi.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=msi.miladsali74.ir&encryption=none#BLK-F3
-vless://716c811f-c365-4103-ba50-65a6802ffb60@104.24.191.49:443?security=tls&sni=msi.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=msi.miladsali74.ir&encryption=none#BLK-F4
+vless://716c811f-c365-4103-ba50-65a6802ffb60@190.93.244.195:443?security=tls&sni=ms1.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=ms1.miladsali74.ir&encryption=none#BLK-F1
+vless://716c811f-c365-4103-ba50-65a6802ffb60@23.227.60.184:443?security=tls&sni=ms1.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=ms1.miladsali74.ir&encryption=none#BLK-F2
+vless://716c811f-c365-4103-ba50-65a6802ffb60@45.8.211.136:443?security=tls&sni=ms1.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=ms1.miladsali74.ir&encryption=none#BLK-F3
+vless://716c811f-c365-4103-ba50-65a6802ffb60@104.24.191.49:443?security=tls&sni=ms1.miladsali74.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=ms1.miladsali74.ir&encryption=none#BLK-F4
