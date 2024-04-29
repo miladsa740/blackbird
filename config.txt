@@ -1,3 +1,4 @@
 vless://fddedc82-7b8b-454b-b590-ef22ca29e33b@190.93.244.195:443?security=tls&sni=MSi.mIlADSali74.IR&alpn=h2,http/1.1&fp=randomized&type=ws&path=/8BiQUQAZ7ezAYfyv?ed%3D2560&host=mSI.mILaDsalI74.iR&encryption=none#%F0%9F%92%A6%20BPB%20-1
 vless://fddedc82-7b8b-454b-b590-ef22ca29e33b@172.67.77.224:443?security=tls&sni=MsI.miLaDSalI74.ir&alpn=h2,http/1.1&fp=randomized&type=ws&path=/Bp8vaB9dnC7Vndbk?ed%3D2560&host=mSI.MIladsALI74.Ir&encryption=none#%F0%9F%92%A6%20BPB%20-2
 vless://fddedc82-7b8b-454b-b590-ef22ca29e33b@172.67.74.48:443?security=tls&sni=MSi.MIladSALI74.IR&alpn=h2,http/1.1&fp=randomized&type=ws&path=/tt94mZyNS1opwjBO?ed%3D2560&host=mSI.mIlaDSali74.iR&encryption=none#%F0%9F%92%A6%20BPB%20-3
+vless://9f17b427-d749-44c5-88c6-cf9ad5502c62@190.93.244.195:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hello.miladsa74.workers.dev&fp=randomized&type=ws&sni=hello.miladsa74.workers.dev#%F0%9F%87%B8%F0%9F%87%A9+BLK+M-1
