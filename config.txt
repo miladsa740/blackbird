@@ -13,3 +13,4 @@ vless://79326669-1585-4a88-8572-de5c009b861c@104.20.135.77:2096?encryption=none&
 vless://79326669-1585-4a88-8572-de5c009b861c@104.20.135.77:443?encryption=none&security=tls&sni=cOPiBPb.paGeS.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=CoPIbpB.PagES.DEV&path=%2F3IdmdU2z91qJJ7IF%3Fed%3D2560#%20BPB%20-%20443
 vless://163576d4-ef0a-4342-8ac5-003e13a602ba@172.67.77.224:8880?encryption=none&security=none&type=ws&host=vless.miladsa74.workers.dev&path=%2F%3Fed%3D2560#8880
 vless://163576d4-ef0a-4342-8ac5-003e13a602ba@172.67.77.224:8443?encryption=none&security=tls&sni=vless.miladsa74.workers.dev&fp=random&type=ws&host=vless.miladsa74.workers.dev&path=%2F%3Fed%3D2560#8443
+trojan://auto@epeius-bnm.pages.dev:443?security=tls&sni=epeius-bnm.pages.dev&fp=randomized&type=ws&host=epeius-bnm.pages.dev&path=%2F%3Fed%3D2560#epeius-bnm.pages.dev
