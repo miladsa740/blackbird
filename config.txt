@@ -11,3 +11,5 @@ wireguard://aArZ8rcXY%2BEVFpIvfZz%2Fln6cIEARhNvo5G2pmsDMu1c%3D@188.114.96.56:859
 vless://79326669-1585-4a88-8572-de5c009b861c@zula.ir:443?encryption=none&security=tls&sni=copibpb.pageS.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=COpibpb.PaGeS.deV&path=%2FEzjDyXhmkX78OheR%3Fed%3D2560#BPB%20-%20Z%20443
 vless://79326669-1585-4a88-8572-de5c009b861c@104.20.135.77:2096?encryption=none&security=tls&sni=cOpIbPB.PAgeS.deV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=cOpiBpB.paGeS.DeV&path=%2FhUm2m2zZHAZLDSlZ%3Fed%3D2560#%20BPB%20-%202096
 vless://79326669-1585-4a88-8572-de5c009b861c@104.20.135.77:443?encryption=none&security=tls&sni=cOPiBPb.paGeS.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=CoPIbpB.PagES.DEV&path=%2F3IdmdU2z91qJJ7IF%3Fed%3D2560#%20BPB%20-%20443
+vless://163576d4-ef0a-4342-8ac5-003e13a602ba@172.67.77.224:8880?encryption=none&security=none&type=ws&host=vless.miladsa74.workers.dev&path=%2F%3Fed%3D2560#8880
+vless://163576d4-ef0a-4342-8ac5-003e13a602ba@172.67.77.224:8443?encryption=none&security=tls&sni=vless.miladsa74.workers.dev&fp=random&type=ws&host=vless.miladsa74.workers.dev&path=%2F%3Fed%3D2560#8443
