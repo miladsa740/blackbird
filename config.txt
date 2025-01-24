@@ -18,3 +18,9 @@ vless://6b48244b-4f4b-4c99-948f-b8ed010a896b@104.25.99.169:443?encryption=none&s
 vless://6b48244b-4f4b-4c99-948f-b8ed010a896b@104.19.240.189:443?encryption=none&security=tls&sni=ComiMAx.miLAdSaLI74.IR&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=comimax.miladsali74.ir&path=%2FMjYhpCmH5yj507yi%3Fed%3D2560#VLESS%20-%20IPv4%20_MCI_IRCF
 vless://6b48244b-4f4b-4c99-948f-b8ed010a896b@104.27.101.40:443?encryption=none&security=tls&sni=ComiMAx.miLAdSaLI74.IR&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=comimax.miladsali74.ir&path=%2FMjYhpCmH5yj507yi%3Fed%3D2560#VLESS%20-%20IPv4%20_MCI_IRCF
 vless://6b48244b-4f4b-4c99-948f-b8ed010a896b@104.24.1.69:443?encryption=none&security=tls&sni=ComiMAx.miLAdSaLI74.IR&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=comimax.miladsali74.ir&path=%2FMjYhpCmH5yj507yi%3Fed%3D2560#VLESS%20-%20IPv4%20_MCI_IRCF
+vless://163576d4-ef0a-4342-8ac5-003e13a602ba@172.67.229.179:443?encryption=none&security=tls&sni=vless.azadibnamma.workers.dev&fp=random&type=ws&host=vless.azadibnamma.workers.dev&path=%2F%3Fed%3D2560#BLK%2BM-1
+vless://163576d4-ef0a-4342-8ac5-003e13a602ba@104.21.198.255:443?encryption=none&security=tls&sni=vless.azadibnamma.workers.dev&fp=random&type=ws&host=vless.azadibnamma.workers.dev&path=%2F%3Fed%3D2560#BLK%2BM-2
+vless://163576d4-ef0a-4342-8ac5-003e13a602ba@104.27.1.129:443?encryption=none&security=tls&sni=vless.azadibnamma.workers.dev&fp=random&type=ws&host=vless.azadibnamma.workers.dev&path=%2F%3Fed%3D2560#BLK%2BM-3
+vless://163576d4-ef0a-4342-8ac5-003e13a602ba@104.27.97.42:443?encryption=none&security=tls&sni=vless.azadibnamma.workers.dev&fp=random&type=ws&host=vless.azadibnamma.workers.dev&path=%2F%3Fed%3D2560#BLK%2BM-4
+vless://163576d4-ef0a-4342-8ac5-003e13a602ba@104.17.20.55:443?encryption=none&security=tls&sni=vless.azadibnamma.workers.dev&fp=random&type=ws&host=vless.azadibnamma.workers.dev&path=%2F%3Fed%3D2560#BLK%2BM-5
+
