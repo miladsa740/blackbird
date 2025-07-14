@@ -4,3 +4,7 @@ vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@www.speedtest.net:443?encryption=no
 vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@www.speedtest.net:8443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=chrome&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CF_VT%206
 vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@104.21.48.1:443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=chrome&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CF_VT%202
 vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@172.67.74.48:443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=chrome&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CF_VT%205
+wireguard://CF%2F1Y0pPpU8QyieUSg%2Fqdxvd9kA4aVwNWi7rQS4UT0o%3D@188.114.98.224:4500?publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=65%2C240%2C117&address=172.16.0.2%2F32&mtu=1280#CF_WARP%201
+wireguard://CF%2F1Y0pPpU8QyieUSg%2Fqdxvd9kA4aVwNWi7rQS4UT0o%3D@188.114.99.0:878?publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=65%2C240%2C117&address=172.16.0.2%2F32&mtu=1280#CF_WARP%202
+wireguard://CF%2F1Y0pPpU8QyieUSg%2Fqdxvd9kA4aVwNWi7rQS4UT0o%3D@188.114.98.224:878?publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=65%2C240%2C117&address=172.16.0.2%2F32&mtu=1280#CF_WARP%203
+wireguard://CF%2F1Y0pPpU8QyieUSg%2Fqdxvd9kA4aVwNWi7rQS4UT0o%3D@188.114.98.0:878?publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=65%2C240%2C117&address=172.16.0.2%2F32&mtu=1280#CF_WARP%204
