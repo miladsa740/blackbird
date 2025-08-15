@@ -5,3 +5,5 @@ vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@www.speedtest.net:8443?encryption=n
 vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@162.159.15.21:443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=chrome&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CM_BLK%205
 vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@104.27.115.85:443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=chrome&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CM_BLK%206
 vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@www.speedtest.net:443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=chrome&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CM_BLK%207
+vless://4e2fdd9c-3af6-4192-a86b-c0cff0286f11@www.speedtest.net:443?encryption=none&security=tls&sni=cFG.mILAdsalI74.iR&alpn=http%2F1.1&fp=chrome&type=ws&host=cfg.miladsali74.ir&path=%2FCcwWMyggXYWO4iNo%3Fed%3D2560#VLESS%3A%20443
+vless://4e2fdd9c-3af6-4192-a86b-c0cff0286f11@188.114.97.3:443?encryption=none&security=tls&sni=cfg.milaDsAlI74.Ir&alpn=http%2F1.1&fp=chrome&type=ws&host=cfg.miladsali74.ir&path=%2FSnaNwTZGt2tnFWzu%3Fed%3D2560#%20VLESS%20-%20IPv4%20
