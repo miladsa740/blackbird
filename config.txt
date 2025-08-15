@@ -1,7 +1,7 @@
-vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@162.159.45.216:8443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=randomized&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CM_BLK%201
-vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@104.27.96.222:8443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=randomized&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CM_BLK%202
-vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@104.19.250.20:8443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=randomized&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CM_BLK%203
-vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@www.speedtest.net:8443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=randomized&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CM_BLK%204
-vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@162.159.15.21:443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=randomized&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CM_BLK%205
-vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@104.27.115.85:443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=randomized&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CM_BLK%206
-vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@www.speedtest.net:443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=randomized&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CM_BLK%207
+vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@162.159.45.216:8443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=chrome&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CM_BLK%201
+vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@104.27.96.222:8443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=chrome&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CM_BLK%202
+vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@104.19.250.20:8443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=chrome&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CM_BLK%203
+vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@www.speedtest.net:8443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=chrome&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CM_BLK%204
+vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@162.159.15.21:443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=chrome&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CM_BLK%205
+vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@104.27.115.85:443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=chrome&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CM_BLK%206
+vless://760ce92a-61cb-4ef6-a65b-c8ce93319174@www.speedtest.net:443?encryption=none&security=tls&sni=plus.miladsali74.ir&fp=chrome&type=ws&host=plus.miladsali74.ir&path=%2F%3Fed%3D2560#CM_BLK%207
